@@ -1,0 +1,13 @@
+c:\users\админ\documents\visual studio 2015\Projects\Module1\Module1\bin\Debug\Module1.exe.config
+C:\Users\Админ\documents\visual studio 2015\Projects\Module1\Module1\bin\Debug\Module1.exe
+C:\Users\Админ\documents\visual studio 2015\Projects\Module1\Module1\bin\Debug\Module1.pdb
+C:\Users\Админ\documents\visual studio 2015\Projects\Module1\Module1\obj\Debug\Module1.csprojResolveAssemblyReference.cache
+C:\Users\Админ\documents\visual studio 2015\Projects\Module1\Module1\obj\Debug\Module1.exe
+C:\Users\Админ\documents\visual studio 2015\Projects\Module1\Module1\obj\Debug\Module1.pdb
+C:\Users\Uladzislau_Cherak\Downloads\Microsoft.SkypeApp_kzf8qxf38zg5c!App\All\Module1\Module1\Module1\bin\Debug\Module1.exe.config
+C:\Users\Uladzislau_Cherak\Downloads\Microsoft.SkypeApp_kzf8qxf38zg5c!App\All\Module1\Module1\Module1\bin\Debug\Module1.exe
+C:\Users\Uladzislau_Cherak\Downloads\Microsoft.SkypeApp_kzf8qxf38zg5c!App\All\Module1\Module1\Module1\bin\Debug\Module1.pdb
+C:\Users\Uladzislau_Cherak\Downloads\Microsoft.SkypeApp_kzf8qxf38zg5c!App\All\Module1\Module1\Module1\obj\Debug\Module1.csprojAssemblyReference.cache
+C:\Users\Uladzislau_Cherak\Downloads\Microsoft.SkypeApp_kzf8qxf38zg5c!App\All\Module1\Module1\Module1\obj\Debug\Module1.csproj.CoreCompileInputs.cache
+C:\Users\Uladzislau_Cherak\Downloads\Microsoft.SkypeApp_kzf8qxf38zg5c!App\All\Module1\Module1\Module1\obj\Debug\Module1.exe
+C:\Users\Uladzislau_Cherak\Downloads\Microsoft.SkypeApp_kzf8qxf38zg5c!App\All\Module1\Module1\Module1\obj\Debug\Module1.pdb
